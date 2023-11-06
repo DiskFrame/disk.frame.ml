@@ -20,5 +20,5 @@ Suggests:
 RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 Encoding: UTF-8
-URL: http://daizj.me/disk.frame/
+URL: diskframe.com
 BugReports: https://github.com/xiaodaigh/disk.frame/issues
